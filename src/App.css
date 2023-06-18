@@ -96,6 +96,10 @@
 /* Responsive styles for screens below 530px */
 
 @media (max-width: 530px) {
+  .four.wide.column {
+    width: 50%;
+  }
+
   .ui.cards > .card > .image {
     padding: 10px;
   }
